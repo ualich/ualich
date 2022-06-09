@@ -1,11 +1,15 @@
-### Interests:
+### Interests
 
 - 💻 Bioinformatics, bioengineering & biotechnology
 - 🧬 Genetics, microbiology & neuroscience
 - 🐧 Linux
 - 🧠 Knowledge technology
 
-### Connect with me:
+### NeuroForest
+
+Check out my personal knowledge management project [NeuroForest][neuroforest]. It is based on [TiddlyWiki5][tw5], and offers customizable, reliable and efficient handling of large knowledge bases.
+
+### Connect with me
 
 [<img align="left" alt="Urban Alič | Twitter" width="22px" src="https://user-images.githubusercontent.com/75170699/133462473-c51016f8-4916-426f-8461-b3ecdc73f88c.png" />][twitter]
 [<img align="left" alt="Urban Alič | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/75170699/133462567-7e4cde05-e2f1-446e-8b0a-f548eeea27b4.png" />][linkedin]
@@ -16,3 +20,5 @@
 [instagram]: https://instagram.com/urbanalich?target=_blank
 [linkedin]: https://www.linkedin.com/in/urban-alič-b91604156?target=_blank
 [facebook]: https://www.facebook.com/urban.alic?target=_blank
+[neuroforest]: https://github.com/neuroforest?target=_blank
+[tw5]: https://tiddlywiki.com?target=_blank
