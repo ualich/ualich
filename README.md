@@ -1,3 +1,5 @@
+### Interests:
+
 - 💻 Bioinformatics, bioengineering & biotechnology
 - 🧬 Genetics, microbiology & neuroscience
 - 🐧 Linux
