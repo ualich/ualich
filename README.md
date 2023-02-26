@@ -7,7 +7,7 @@
 
 ### NeuroForest
 
-Check out my personal knowledge management project [NeuroForest][neuroforest]. It is based on [TiddlyWiki5][tw5] and offers customizable, reliable, and efficient handling of large knowledge bases.
+Check out my knowledge engineering project [NeuroForest][neuroforest]. It is based on [TiddlyWiki5][tw5] and offers customizable, reliable, and efficient handling of complex knowledge bases.
 
 ### Connect with me
 
