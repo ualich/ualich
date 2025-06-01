@@ -11,8 +11,8 @@ Check out my knowledge engineering project [NeuroForest][neuroforest]. It is bas
 
 ### Connect with me
 
-[<img align="left" alt="Urban Alič | X" width="22px" src="https://github.com/user-attachments/assets/c7cfad7e-fa2d-4867-ae04-aa9699f42189" />][x]
-[<img align="left" alt="Urban Alič | LinkedIn" width="22px" src="https://github.com/user-attachments/assets/7a0db31b-9882-474c-b792-73c71f743962" />][linkedin]
+[<img alt="Urban Alič | X" width="22px" src="https://github.com/user-attachments/assets/c7cfad7e-fa2d-4867-ae04-aa9699f42189" />][x]
+[<img alt="Urban Alič | LinkedIn" width="22px" src="https://github.com/user-attachments/assets/7a0db31b-9882-474c-b792-73c71f743962" />][linkedin]
 
 [x]: https://x.com/urbanalich?target=_blank
 [linkedin]: https://www.linkedin.com/in/urban-alič-b91604156?target=_blank
